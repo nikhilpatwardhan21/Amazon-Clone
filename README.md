@@ -1,4 +1,4 @@
 
-<p>Amazon front pageusing:</p>
+<p>Amazon front page using:</p>
 <li>HTML</li>
 <li>CSS</li>
